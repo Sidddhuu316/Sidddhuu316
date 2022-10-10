@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidddhuu316&label=Profile%20views&color=0e75b6&style=flat" alt="sidddhuu316" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidddhuu316" alt="sidddhuu316" /></a> </p>
-
 - 🌱 I’m currently learning **Python , Java , WebDevelopment, Js,**
 
 - 📫 How to reach me **sidhumakwana@outlook.com**
